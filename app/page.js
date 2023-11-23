@@ -30,7 +30,7 @@ export default function Home() {
   <div className="flex flex-col items-center h-full">
    <div className="container flex flex-col items-center h-full p-40 md:p-40 p-6">
     <div className="sm:w-3/5 w-full text-center">
-     <h1 className="text-5xl">Generate a to-do-list for your next test, quiz or exam!</h1>
+     <h1 className="text-5xl text-black">Generate a to-do-list for your next test, quiz or exam!</h1>
     </div>
     <div className="text-center pt-12 w-full">
      <p>Input your topic:</p>
