@@ -1,14 +1,5 @@
 ## Šis projekts ir domāts Datorium.
 
-Lai uzsāktu Ollama serveri, termināli (uz windows nestrādās, tikai ar WSL) rakstiet 
-```bash
-curl https://ollama.ai/install.sh | sh
-```
-Kad tas izdarīts, rakstiet:
-```bash
-ollama run llama2
-```
-
 Lai pamēģinātu pašu projektu, sekojiet šīm instrukcijām:
 ## Getting Started
 
